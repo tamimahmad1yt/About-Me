@@ -4,7 +4,7 @@
 - 💞️ I’m looking for a job as a Front-End Website Developer.
 - 📧 My email address is tamimahmad1yt@gmail.com
 - 📞 My Mobile number is +91-9661025188
-- For More Information you can visit on my resume:- 
+- For More Information you can visit on my resume:- <a href="https://tamimahmad1yt.github.io/Tamim-Resume/">My Resume</a>
 
 <!---
 tamimahmad1yt/tamimahmad1yt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
